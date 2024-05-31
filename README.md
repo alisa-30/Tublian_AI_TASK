@@ -1,8 +1,14 @@
-# Groq & Llama3 Template
----
+# AI Tutor
 
-Simple Groq & Llama3 Template project for building applications using Llama3 and Groq Cloud API.
+## Introduction
+This project implements a command-line chatbot that leverages the Llama3 model and Groq Cloud API to provide users with an interactive AI tutor. Users can type in questions and receive detailed answers, explanations of machine learning algorithms, and guidance on various topics.
 
+## Features
+- Interactive command-line interface
+- Answers questions on a wide range of topics
+- Provides explanations for machine learning algorithms
+- Guides users through their learning journey.
+  
 ## Tech Stack
 
 - [GroqCloud](https://console.groq.com/login) Create Groq Cloud API.
